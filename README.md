@@ -44,6 +44,4 @@ Install as a skill in Hermes Agent, Claude Code, or OpenClaw. On startup, load r
 | Claude Code | `~/.claude/corrections/` |
 | OpenClaw | `~/.openclaw/corrections/` |
 
-## Source
 
-Synthesized from [zodchiii](https://x.com/zodchiii) (X.com), 2026-06-30.
