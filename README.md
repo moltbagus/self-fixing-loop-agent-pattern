@@ -1,5 +1,7 @@
 # Self-Fixing Loop Agent Pattern
 
+*Co-created by Claude and sirshibaninja at https://x.com/sirshibaninja*
+
 A skill for agentic AI systems that eliminates repeated mistakes across sessions using a 3-stage persistent memory pattern.
 
 ## The Problem

@@ -8,6 +8,8 @@ tags: [agentic-ai, memory, self-improvement, llm, pattern]
 
 # Self-Fixing Loop — 3-Stage Pattern
 
+*Co-created by Claude and sirshibaninja at https://x.com/sirshibaninja*
+
 Most agents fail not because of the LLM, but because of the **data layer**. They make the same mistake in session 2 that they made in session 1.
 
 ## The 3 Stages
