@@ -1,0 +1,1 @@
+# self-fixing-loop-agent-pattern
