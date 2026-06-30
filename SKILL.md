@@ -41,7 +41,9 @@ The loop closes by writing to a **durable store** (file/db), not session context
 ## Implementation Notes
 
 ```
-~/.hermes/corrections/       # persistent correction rules
+~/.hermes/corrections/       # Hermes Agent
+~/.claude/corrections/       # Claude Code
+~/.openclaw/corrections/     # OpenClaw
   <domain>/
     failures.jsonl           # raw failure log
     rules.md                 # synthesized rules from failures

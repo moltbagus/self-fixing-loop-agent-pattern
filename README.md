@@ -36,7 +36,13 @@ After action, verify against the rule — not just outcome. A correct outcome th
 
 ## Usage
 
-Install as a skill in Hermes Agent or Claude Code. On startup, load rules from `~/.hermes/corrections/` into context before domain tasks. After any action, verify against loaded rules.
+Install as a skill in Hermes Agent, Claude Code, or OpenClaw. On startup, load rules from the corrections directory into context before domain tasks. After any action, verify against loaded rules.
+
+| Platform | Corrections Path |
+|----------|-----------------|
+| Hermes Agent | `~/.hermes/corrections/` |
+| Claude Code | `~/.claude/corrections/` |
+| OpenClaw | `~/.openclaw/corrections/` |
 
 ## Source
 
